@@ -3059,6 +3059,286 @@ public final class ItemTypes {
     public static final ItemType ZOMBIE_VILLAGER_SPAWN_EGG = init();
     @Nullable
     public static final ItemType ZOMBIFIED_PIGLIN_SPAWN_EGG = init();
+    @Nullable
+    public static final ItemType ABANDONED_CAMP_MAP = init();
+    @Nullable
+    public static final ItemType BLACK_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType BLACK_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType BLACK_CUSHION = init();
+    @Nullable
+    public static final ItemType BLACK_HARNESS = init();
+    @Nullable
+    public static final ItemType BLACK_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType BLACK_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType BLUE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType BLUE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType BLUE_CUSHION = init();
+    @Nullable
+    public static final ItemType BLUE_HARNESS = init();
+    @Nullable
+    public static final ItemType BLUE_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType BLUE_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType BROWN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType BROWN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType BROWN_CUSHION = init();
+    @Nullable
+    public static final ItemType BROWN_HARNESS = init();
+    @Nullable
+    public static final ItemType BROWN_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType BROWN_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType BURIED_ANCIENT_CITY_MAP = init();
+    @Nullable
+    public static final ItemType BURIED_MINESHAFT_MAP = init();
+    @Nullable
+    public static final ItemType BURIED_TREASURE_MAP = init();
+    @Nullable
+    public static final ItemType BURIED_TRIAL_CHAMBERS_MAP = init();
+    @Nullable
+    public static final ItemType CYAN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType CYAN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType CYAN_CUSHION = init();
+    @Nullable
+    public static final ItemType CYAN_HARNESS = init();
+    @Nullable
+    public static final ItemType CYAN_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType CYAN_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType DESERT_PYRAMID_MAP = init();
+    @Nullable
+    public static final ItemType DESERT_VILLAGE_MAP = init();
+    @Nullable
+    public static final ItemType DRIED_GHAST = init();
+    @Nullable
+    public static final ItemType GRAY_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType GRAY_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType GRAY_CUSHION = init();
+    @Nullable
+    public static final ItemType GRAY_HARNESS = init();
+    @Nullable
+    public static final ItemType GRAY_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType GRAY_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType GREEN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType GREEN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType GREEN_CUSHION = init();
+    @Nullable
+    public static final ItemType GREEN_HARNESS = init();
+    @Nullable
+    public static final ItemType GREEN_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType GREEN_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType HAPPY_GHAST_SPAWN_EGG = init();
+    @Nullable
+    public static final ItemType JUNGLE_PYRAMID_MAP = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_CUSHION = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_HARNESS = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType LIGHT_BLUE_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_CUSHION = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_HARNESS = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType LIGHT_GRAY_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType LIME_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType LIME_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType LIME_CUSHION = init();
+    @Nullable
+    public static final ItemType LIME_HARNESS = init();
+    @Nullable
+    public static final ItemType LIME_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType LIME_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType MAGENTA_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType MAGENTA_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType MAGENTA_CUSHION = init();
+    @Nullable
+    public static final ItemType MAGENTA_HARNESS = init();
+    @Nullable
+    public static final ItemType MAGENTA_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType MAGENTA_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType MUSIC_DISC_TEARS = init();
+    @Nullable
+    public static final ItemType OCEAN_MONUMENT_MAP = init();
+    @Nullable
+    public static final ItemType ORANGE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType ORANGE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType ORANGE_CUSHION = init();
+    @Nullable
+    public static final ItemType ORANGE_HARNESS = init();
+    @Nullable
+    public static final ItemType ORANGE_POPLAR_LEAVES = init();
+    @Nullable
+    public static final ItemType ORANGE_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType ORANGE_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType PINK_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType PINK_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType PINK_CUSHION = init();
+    @Nullable
+    public static final ItemType PINK_HARNESS = init();
+    @Nullable
+    public static final ItemType PINK_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType PINK_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType PLAINS_VILLAGE_MAP = init();
+    @Nullable
+    public static final ItemType POPLAR_BOAT = init();
+    @Nullable
+    public static final ItemType POPLAR_BUTTON = init();
+    @Nullable
+    public static final ItemType POPLAR_CHEST_BOAT = init();
+    @Nullable
+    public static final ItemType POPLAR_DOOR = init();
+    @Nullable
+    public static final ItemType POPLAR_FENCE = init();
+    @Nullable
+    public static final ItemType POPLAR_FENCE_GATE = init();
+    @Nullable
+    public static final ItemType POPLAR_HANGING_SIGN = init();
+    @Nullable
+    public static final ItemType POPLAR_LOG = init();
+    @Nullable
+    public static final ItemType POPLAR_PLANKS = init();
+    @Nullable
+    public static final ItemType POPLAR_PRESSURE_PLATE = init();
+    @Nullable
+    public static final ItemType POPLAR_SAPLING = init();
+    @Nullable
+    public static final ItemType POPLAR_SHELF = init();
+    @Nullable
+    public static final ItemType POPLAR_SIGN = init();
+    @Nullable
+    public static final ItemType POPLAR_SLAB = init();
+    @Nullable
+    public static final ItemType POPLAR_STAIRS = init();
+    @Nullable
+    public static final ItemType POPLAR_TRAPDOOR = init();
+    @Nullable
+    public static final ItemType POPLAR_WOOD = init();
+    @Nullable
+    public static final ItemType PURPLE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType PURPLE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType PURPLE_CUSHION = init();
+    @Nullable
+    public static final ItemType PURPLE_HARNESS = init();
+    @Nullable
+    public static final ItemType PURPLE_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType PURPLE_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType RED_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType RED_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType RED_CUSHION = init();
+    @Nullable
+    public static final ItemType RED_HARNESS = init();
+    @Nullable
+    public static final ItemType RED_POPLAR_LEAVES = init();
+    @Nullable
+    public static final ItemType RED_SHRUB = init();
+    @Nullable
+    public static final ItemType RED_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType RED_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType SAVANNA_VILLAGE_MAP = init();
+    @Nullable
+    public static final ItemType SHELF_MUSHROOM = init();
+    @Nullable
+    public static final ItemType SNOWY_VILLAGE_MAP = init();
+    @Nullable
+    public static final ItemType STRAW_BED = init();
+    @Nullable
+    public static final ItemType STRIPPED_POPLAR_LOG = init();
+    @Nullable
+    public static final ItemType STRIPPED_POPLAR_WOOD = init();
+    @Nullable
+    public static final ItemType SWAMP_HUT_MAP = init();
+    @Nullable
+    public static final ItemType TAIGA_VILLAGE_MAP = init();
+    @Nullable
+    public static final ItemType WARM_OCEAN_RUINS_MAP = init();
+    @Nullable
+    public static final ItemType WHITE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType WHITE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType WHITE_CUSHION = init();
+    @Nullable
+    public static final ItemType WHITE_HARNESS = init();
+    @Nullable
+    public static final ItemType WHITE_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType WHITE_WOOL_STAIRS = init();
+    @Nullable
+    public static final ItemType WOODLAND_MANSION_MAP = init();
+    @Nullable
+    public static final ItemType YELLOW_CONCRETE_SLAB = init();
+    @Nullable
+    public static final ItemType YELLOW_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final ItemType YELLOW_CUSHION = init();
+    @Nullable
+    public static final ItemType YELLOW_HARNESS = init();
+    @Nullable
+    public static final ItemType YELLOW_POPLAR_LEAVES = init();
+    @Nullable
+    public static final ItemType YELLOW_WOOL_SLAB = init();
+    @Nullable
+    public static final ItemType YELLOW_WOOL_STAIRS = init();
 
     private ItemTypes() {
     }

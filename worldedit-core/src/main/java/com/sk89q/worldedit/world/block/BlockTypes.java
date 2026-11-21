@@ -2456,6 +2456,188 @@ public final class BlockTypes {
     public static final BlockType ZOMBIE_HEAD = init();
     @Nullable
     public static final BlockType ZOMBIE_WALL_HEAD = init();
+    @Nullable
+    public static final BlockType BLACK_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType BLACK_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType BLACK_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType BLACK_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType BLUE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType BLUE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType BLUE_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType BLUE_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType BROWN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType BROWN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType BROWN_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType BROWN_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType CYAN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType CYAN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType CYAN_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType CYAN_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType DRIED_GHAST = init();
+    @Nullable
+    public static final BlockType GRAY_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType GRAY_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType GRAY_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType GRAY_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType GREEN_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType GREEN_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType GREEN_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType GREEN_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType LIGHT_BLUE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType LIGHT_BLUE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType LIGHT_BLUE_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType LIGHT_BLUE_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType LIGHT_GRAY_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType LIGHT_GRAY_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType LIGHT_GRAY_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType LIGHT_GRAY_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType LIME_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType LIME_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType LIME_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType LIME_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType MAGENTA_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType MAGENTA_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType MAGENTA_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType MAGENTA_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType ORANGE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType ORANGE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType ORANGE_POPLAR_LEAVES = init();
+    @Nullable
+    public static final BlockType ORANGE_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType ORANGE_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType PINK_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType PINK_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType PINK_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType PINK_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType POPLAR_BUTTON = init();
+    @Nullable
+    public static final BlockType POPLAR_DOOR = init();
+    @Nullable
+    public static final BlockType POPLAR_FENCE = init();
+    @Nullable
+    public static final BlockType POPLAR_FENCE_GATE = init();
+    @Nullable
+    public static final BlockType POPLAR_HANGING_SIGN = init();
+    @Nullable
+    public static final BlockType POPLAR_LOG = init();
+    @Nullable
+    public static final BlockType POPLAR_PLANKS = init();
+    @Nullable
+    public static final BlockType POPLAR_PRESSURE_PLATE = init();
+    @Nullable
+    public static final BlockType POPLAR_SAPLING = init();
+    @Nullable
+    public static final BlockType POPLAR_SHELF = init();
+    @Nullable
+    public static final BlockType POPLAR_SIGN = init();
+    @Nullable
+    public static final BlockType POPLAR_SLAB = init();
+    @Nullable
+    public static final BlockType POPLAR_STAIRS = init();
+    @Nullable
+    public static final BlockType POPLAR_TRAPDOOR = init();
+    @Nullable
+    public static final BlockType POPLAR_WALL_HANGING_SIGN = init();
+    @Nullable
+    public static final BlockType POPLAR_WALL_SIGN = init();
+    @Nullable
+    public static final BlockType POPLAR_WOOD = init();
+    @Nullable
+    public static final BlockType POTTED_POPLAR_SAPLING = init();
+    @Nullable
+    public static final BlockType PURPLE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType PURPLE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType PURPLE_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType PURPLE_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType RED_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType RED_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType RED_POPLAR_LEAVES = init();
+    @Nullable
+    public static final BlockType RED_SHRUB = init();
+    @Nullable
+    public static final BlockType RED_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType RED_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType SHELF_MUSHROOM = init();
+    @Nullable
+    public static final BlockType STRAW_BED = init();
+    @Nullable
+    public static final BlockType STRIPPED_POPLAR_LOG = init();
+    @Nullable
+    public static final BlockType STRIPPED_POPLAR_WOOD = init();
+    @Nullable
+    public static final BlockType WHITE_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType WHITE_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType WHITE_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType WHITE_WOOL_STAIRS = init();
+    @Nullable
+    public static final BlockType YELLOW_CONCRETE_SLAB = init();
+    @Nullable
+    public static final BlockType YELLOW_CONCRETE_STAIRS = init();
+    @Nullable
+    public static final BlockType YELLOW_POPLAR_LEAVES = init();
+    @Nullable
+    public static final BlockType YELLOW_WOOL_SLAB = init();
+    @Nullable
+    public static final BlockType YELLOW_WOOL_STAIRS = init();
 
     private static Field[] fieldsTmp;
     private static int initIndex;

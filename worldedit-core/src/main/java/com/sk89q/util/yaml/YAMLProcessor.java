@@ -36,6 +36,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Path;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -114,6 +115,14 @@ public class YAMLProcessor extends YAMLNode {
 
     public YAMLProcessor(File file, boolean writeDefaults) {
         this(file, writeDefaults, YAMLFormat.COMPACT);
+    }
+
+    public YAMLProcessor(Path path, boolean writeDefaults, YAMLFormat format) {
+        this(path.toFile(), writeDefaults, format);
+    }
+
+    public YAMLProcessor(Path path, boolean writeDefaults) {
+        this(path.toFile(), writeDefaults, YAMLFormat.COMPACT);
     }
 
     /**

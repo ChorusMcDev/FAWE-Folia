@@ -336,7 +336,13 @@ public class WorldEditPlugin extends JavaPlugin {
                         for (Map.Entry<Property<?>, Object> propertyObjectEntry : state.getStates().entrySet()) {
                             //noinspection unchecked
                             defaultState = defaultState.with((Property<Object>) propertyObjectEntry.getKey(), propertyObjectEntry.getValue());
-                        }
+    //FAWE-Folia start - WorldGuard 7.0.21+ checks WorldEditPlugin#isFolia()
+    public boolean isFolia() {
+        return com.github.ssquadteam.fawe.scheduler.FaweScheduler.isFolia();
+    }
+    //FAWE-Folia end
+
+}
                         return defaultState;
                     } catch (InputParseException e) {
                         LOGGER.warn("Error loading block state for " + key, e);
